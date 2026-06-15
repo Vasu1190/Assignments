@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Region,Sales_Qty,Price,Revenue,Month,Manager,Rating
+P101,Laptop,Electronics,North,50,50000,2500000,Jan,John,4.5
+P102,Mobile,Electronics,South,80,20000,1600000,Jan,Sarah,4.2
+P103,TV,Electronics,East,30,40000,1200000,Jan,Mike,4.3
+P104,AC,Appliances,West,20,35000,700000,Jan,David,4.0
+P105,Fridge,Appliances,North,15,30000,450000,Jan,John,4.1
